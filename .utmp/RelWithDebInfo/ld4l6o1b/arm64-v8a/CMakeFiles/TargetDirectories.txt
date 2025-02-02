@@ -1,0 +1,5 @@
+D:/Dude On Tap/Unity/My project (2)/.utmp/RelWithDebInfo/ld4l6o1b/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Dude On Tap/Unity/My project (2)/.utmp/RelWithDebInfo/ld4l6o1b/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Dude On Tap/Unity/My project (2)/.utmp/RelWithDebInfo/ld4l6o1b/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Dude On Tap/Unity/My project (2)/.utmp/RelWithDebInfo/ld4l6o1b/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Dude On Tap/Unity/My project (2)/.utmp/RelWithDebInfo/ld4l6o1b/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
